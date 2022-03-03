@@ -1,0 +1,5 @@
+<!-- atalho alt após o O e apaga--> ação múltipla 
+
+<!-- ctrl enter após tag--> pula para linha debaixo 
+
+<!-- ctrl shift p + enter + codigo--> auto inserção de tag
